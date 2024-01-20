@@ -1,5 +1,5 @@
 [[main]]
-  name = "Início"
+  name = "首页"
   url = ""
   weight = -110
 
@@ -10,19 +10,19 @@
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
+  name = "链接"
   identifier = "Links"
   weight = -108
 [[main]]
   parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  name = "一网盟"
+  url = "https://www.yiwangmeng.com/"
 [[main]]
   parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  name = "微博"
+  url = "https://weibo.com/"
 
 [[main]]
-  name = "Sobre"
+  name = "关于"
   url = "about/"
   weight = -107
