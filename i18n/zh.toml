@@ -11,10 +11,10 @@ other = "All Rights Reserved"
 other = "分享到"
 
 [featured_posts]
-other = "精选文章"
+other = "精选"
 
 [recent_posts]
-other = "最新文章"
+other = "最新"
 
 [404_title]
 other = "页面不见了"
